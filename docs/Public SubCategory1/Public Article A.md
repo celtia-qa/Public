@@ -9,3 +9,5 @@ Article in sub category
 ![Mind&Map](/docs/.document360/assets/Mind&Map.jpg)
 
 Sync
+
+Re-sync
