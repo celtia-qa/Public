@@ -8,4 +8,4 @@ Public page category
 
 ![MindMap](/docs/.document360/assets/Mind&Map.jpg)
 
-Resync
+Resync check
