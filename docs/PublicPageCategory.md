@@ -7,3 +7,5 @@ Public page category
 ![OtherLanguage](/docs/.document360/assets/מונטקסטלופית.png)
 
 ![MindMap](/docs/.document360/assets/Mind&Map.jpg)
+
+Resync
