@@ -11,3 +11,5 @@ Public documentation
 ![Mind&Map](/docs/.document360/assets/Mind&Map.jpg)
 
 Resync check
+
+29th July
